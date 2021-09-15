@@ -1,0 +1,20 @@
+.upcomingMovies{
+    background: #ff9999;
+    padding: 8px;
+    text-align: center;
+    font-size: 1rem;
+}
+
+.releasedMoviesFlexContainer{
+    display: flex;
+}
+
+.releasedMoviesGrid{
+   flex:5;
+   margin: 18px !important;
+}
+
+.movieFilter{
+    flex: 1;
+    margin: 18px !important;
+}
